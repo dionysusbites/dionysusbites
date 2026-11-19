@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm D.
 
-<!--
-**dionysusbites/dionysusbites** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An aspiring SOC Analyst learning cyber security and development from scratch.
 
-Here are some ideas to get you started:
+## What I'm doing now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Working through TryHackMe
+- Cybersecurity course at Codeacademy.lt
+- Building Python projects and automations.
+- Preparing for CompTIA A+, CompTIA Network+, CompTIA Security+, Blue Team Level 1 certification.
+
+## Projects
+
+- [Password Strength Checker](link)
+- [File Sorter](link)
+- [Personal VPN](link)
+- [Tracking Journal](link)
+- [Log Parser](link)
+
+## Journal
+(Daily learning notes)
+
+## Contact
+[Linkedin](https://www.linkedin.com/in/dmitrij-polukarov-5961b51b0/)
