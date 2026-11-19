@@ -18,7 +18,7 @@ An aspiring SOC Analyst learning cyber security and development from scratch.
 - [Log Parser](link)
 
 ## Journal
-(Daily learning notes)
+Daily learning notes: [cybersecurity-journal](link)
 
 ## Contact
 [Linkedin](https://www.linkedin.com/in/dmitrij-polukarov-5961b51b0/)
